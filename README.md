@@ -33,3 +33,4 @@ AnimationTexture로 무비클립애니메이션, 비트맵데이터들을 재생
 ![example2](./img/example2.png)
 ![example3](./img/example3.png)
 ![example4](./img/example4.png)
+![example4](./img/structure.png)
