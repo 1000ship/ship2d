@@ -1,6 +1,7 @@
 # ship2d Graphic Accelerator
-2D Image GPU Accelerator with Molehill, ActionScript3.0
+>2D Image GPU Accelerator with Molehill, ActionScript3.0
 
+## 구조
 1. Ship2DContainer : 여기에 모든 객체를 addObject하여 사용합니다. 
 2. Object2D : Ship2DContainer에 추가하여 사용할 수 있습니다.
 3. Rectangle2D : 사각형 객체입니다. 여기에 텍스쳐를 입혀 시각화시켜주세요. Object2D를 상속합니다.
@@ -9,7 +10,7 @@
 6. MovieClipStatus : 무비클립 사이즈 정보를 알때 씁니다. 엔진 사용시에 크게 쓸일 없습니다.
 7. ObjectTexture : DisplayObject를 받아 텍스쳐로 사용합니다. 함수를 이용해 텍스쳐 정보를 다시 그려 업데이트 가능합니다.
 
-### 이 라이브러리를 사용한 작품들
+## 이 라이브러리를 사용한 작품들
 간단 작품
  - http://blog.shipnk.com/130123732561 (간단 시각화) - 소스 사용 불가
  - http://blog.shipnk.com/130124885260 (간단 파티클)
